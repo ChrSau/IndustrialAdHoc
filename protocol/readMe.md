@@ -1,0 +1,1 @@
+Rebuild click with tracer element and run Tracer.click configuration
